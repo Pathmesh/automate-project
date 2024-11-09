@@ -8,7 +8,7 @@
 <h2> 
 	<h2>Hello world</h2>
 	<h3>Welcome to myapp.com</h3>
-	<h4>Happy weekend</h4>
+	<h4>Happy holiday!</h4>
   
 </body>
 </html>
